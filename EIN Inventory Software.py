@@ -1593,7 +1593,7 @@ def about():
     #Labels
     nameLabel = Label(aboutRoot, text = 'Electronics Inventory Notetaker (EIN)')
     authorLabel = Label(aboutRoot, text = 'Author: Spencer Gray')
-    akLabel = Label(aboutRoot, text = 'For use in the Akron Municipal Court')
+    akLabel = Label(aboutRoot, text = '')
     versionLabel = Label(aboutRoot, text = 'Version: ' + version)
 
     #Buttons
