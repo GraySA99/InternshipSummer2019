@@ -1,5 +1,5 @@
 # InternshipSummer2019
-Inventory Software I wrote during my Summer 2019 Internship. Can be ran straight from the folder
+Inventory Software I wrote during my Summer 2019 Internship. I have permission from the organization to share this. All references to the company have been removed and this demo version is not associated with the company in any way.
 Required Libraries:
   <br />tkinter,
   <br />ttkthemes,
@@ -21,4 +21,5 @@ Required Libraries:
   User Note: Some features of this program do not work due to not being hooked up to an actual organizations database. For instance, reconnecting to server does nothing because the database is a local sqlite database. <br />
   <br />
   Usage: run <br /> ```pip install -r requirements.txt``` <br />
-  then <br /> ```python '.\EIN Inventory Software.py'```
+  then <br /> ```python '.\EIN Inventory Software.py'``` <br />
+  default login is ```username=admin password=admin```
