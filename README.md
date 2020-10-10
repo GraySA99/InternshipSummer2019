@@ -1,4 +1,4 @@
-# InternshipSummer2019
+# Electronic Inventory Notetaker
 Inventory Software I wrote during my Summer 2019 Internship. I have permission from the organization to share this. All references to the company have been removed and this demo version is not associated with the company in any way.
 Required Libraries:
   <br />tkinter,
