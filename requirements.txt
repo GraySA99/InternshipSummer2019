@@ -1,6 +1,5 @@
 pillow==7.2.0
 ttkthemes==3.1.1
-pywin32
+pywin32==228
 requests==2.24.0
 tkcalendar==1.6.1
-mysql.connector
